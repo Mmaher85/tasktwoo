@@ -15,8 +15,8 @@
                 Console.WriteLine("M - Display mean of the numbers");
                 Console.WriteLine("S - Display the smallest number");
                 Console.WriteLine("L - Display the largest number");
-                Console.WriteLine("F - Find a number (extension)");
-                Console.WriteLine("C - Clear the list (extension)");
+                Console.WriteLine("F - Find a number ");
+                Console.WriteLine("C - Clear the list ");
                 Console.WriteLine("Q - Quit");
                 Console.Write("Enter your choice: ");
 
